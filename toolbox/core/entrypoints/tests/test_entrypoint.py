@@ -1,7 +1,7 @@
 from typing import Any, Type
 from unittest import TestCase
 
-from libs.core.entrypoints.base_entrypoint import Entrypoint
+from core.entrypoints.base_entrypoint import Entrypoint
 
 
 class TestEntrypoint(TestCase):

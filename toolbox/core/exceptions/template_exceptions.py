@@ -1,0 +1,6 @@
+class TemplateNotFound(Exception):
+    ...
+
+
+class TemplatesDirNotFound(Exception):
+    ...
